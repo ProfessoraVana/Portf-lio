@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    color: gray;
+}
+
+header {
+    text-align: center;
+}
+
+span {
+    background-color: rgb(150, 50, 30);
+    color: white;
+    padding: 3px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 20px;
+    margin: 10px 20px;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+
+p{
+  margin: 10px 0px;
+}
+
+div{
+    border: solid 5px green;
+    padding: 5px;
+    margin: 5px;
+}
